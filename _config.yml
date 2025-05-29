@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyi Zhuang (庄新一)"
-description              : "Ph.D. student at Harbin Institute of Technology, Shenzhen"
-repository               : "iimxinyi.github.io"
+title                    : "Hongjia Wu (吴虹佳)"
+description              : "Postdoctoral Fellow at Education University of Hong Kong"
+repository               : "hongjiaWu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyi Zhuang"
-  avatar           : "images/zxy.jpg"
+  name             : "Hongjia Wu"
+  avatar           : "images/whj.jpg"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "Hongkong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IkhGGKUAAAAJ&hl=en&authuser=1&oi=ao"
-  email            : "zhuangxinyi@stu.hit.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=WPWAvwsAAAAJ&hl=zh-CN&oi=ao"
+  email            : "whongjia@eduhk.hk"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iimxinyi"
+  github           : "Siyu-Jill"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0004-2396-4950"
+  orcid            : "https://orcid.org/0000-0002-4754-3833"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
