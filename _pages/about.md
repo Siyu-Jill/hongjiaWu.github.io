@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyi Zhuang (庄新一)"
+title: "Hongjia Wu (吴虹佳)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Xinyi Zhuang (庄新一)
-Hi, I'm a second-year direct-track Ph.D. student at School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
-I received my B.E. degree in Communication Engineering from Northwestern Polytechnical University in 2023.
-Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen, under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
+# Hongjia Wu (吴虹佳)
+Hi, I'm a Postdoctoral Fellow at Department of Mathematics and Information Technology, Education University of Hong Kong.
+I received my bachelor's degree and master's degree from Liaoning Technical University and Guangxi University in 2016 and 2018, respectively.
+I received the Ph.D. degree from the National University of Defense Technology, China, in 2023, under the supervision of Prof. [Zhiping Cai](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=Zhiping+Cai&hl=zh-CN&oi=ao). I was a CSC visiting scholar at the Singapore University of
+Technology and Design, under the supervision of Prof. [Zehui Xiong](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=zehui+xiong&hl=zh-CN&oi=ao)，在2021-2023年期间.  曾经在 Information and Communication Engineering at Harbin Institute of Technology, Shenzhen,是访问学者， under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
+ Now, I am a Post-doctoral Fellow at the Education University of Hong Kong in China. 
 
-My research interests include Network for Large AI models and AI for networking.
+ 
+interests include computational offloading, game theory, resource allocation, and dispersed computing.
 
-Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>
+
+My research interests include Network for Large AI models and AI for networking, Mobile Edge Computing and Game Theory.
+
+Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.hk</u>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
