@@ -28,13 +28,14 @@ My research interests include Network for Large AI models, Mobile Edge Computing
 Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.hk</u>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
-- *2025.05*: &nbsp;🎉🎉 One corresponding-author paper has been submitted to IEEE Global Communications Conference (GLOBECOM).
+- *2025.03*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing (TMC).
+- *2024.11*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Services Computing (TSC).
 
 
 # 📖 Educations
-- *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.
-- *2015.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
+- *2019.03 - 2023.06*, Doctor of Philosophy in Computer Science and Technology, National University of Defense Technology, China.
+- *2016.09 - 2018.12*, Master of Science in Software Engineering, Guangxi University, China.
+- *2012.09 - 2016.07*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
 
 
 # 📝 Selected First-Author Publications
