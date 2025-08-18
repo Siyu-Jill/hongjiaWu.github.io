@@ -35,13 +35,13 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 # 📖 Educations
 - *2019.03 - 2023.06*, Doctor of Philosophy in Computer Science and Technology, National University of Defense Technology, China.
 - *2016.09 - 2018.12*, Master of Science in Software Engineering, Guangxi University, China.
-- *2012.09 - 2016.07*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
+- *2012.09 - 2016.07*, Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
 
-
-# 📝 Selected First-Author Publications
+<!-- # 📝 Selected First-Author Publications
 #### Conference Papers:
 - <span style="background-color: #cc6666; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,” in Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM), Accepted, 2025. (**CCF A**)
-- <span style="background-color: #99cc33; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,” in Proc. IEEE Int. Conf. Commun. (ICC), Accepted, 2025. (CCF C)
+- <span style="background-color: #99cc33; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,” in Proc. IEEE Int. Conf. Commun. (ICC), Accepted, 2025. (CCF C) -->
+
 
 
 # 📄 Full Publications
