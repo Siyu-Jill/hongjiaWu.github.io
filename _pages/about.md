@@ -41,7 +41,7 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 <!-- #### Conference Papers:
 - <span style="background-color: #cc6666; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,” in Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM), Accepted, 2025. (**CCF A**)
 - <span style="background-color: #99cc33; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,” in Proc. IEEE Int. Conf. Commun. (ICC), Accepted, 2025. (CCF C) -->
-
+- <span style="background-color: #33cccc; color: white; padding: 1px 4px; font-size: 12px;">``TSC 2025``</span> **Hongjia Wu**, H. Zeng, Z. Xiong, J. Kang, Z. Cai, T.-T. Chan, D. Niyato, and Z. Han, “[MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services](https://ieeexplore.ieee.org/abstract/document/11164460),” IEEE Transactions on Services Computing, Early Access, 2025. (**CCF A**, **SCI Q1**)
 
 
 # 📄 Full Publications
