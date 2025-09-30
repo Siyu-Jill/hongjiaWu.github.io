@@ -17,28 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# **Hi, I am Hongjia Wu (吴虹佳)**
+# Hongjia Wu (吴虹佳)
 
-I'm a Postdoctoral Fellow at the Department of Mathematics and Information Technology, the Education University of Hong Kong (EdUHK).  
-I received Ph.D. degree at the College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China, supervised by Prof. [Zhiping Cai](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=Zhiping+Cai&hl=zh-CN&oi=ao). During my doctoral studies (2019–2023), I expanded my research horizons as a China Scholarship Council (CSC) Visiting student at the Singapore University of Technology and Design (SUTD), guided by Prof. [Zehui Xiong](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=zehui+xiong&hl=zh-CN&oi=ao). I also served as a visiting scholar in Information and Communication Engineering at the Harbin Institute of Technology, Shenzhen (HITSZ), where I studied with Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en) to advance research on **AI-generated content in edge computing**. 
+Hi, I'm a Postdoctoral Fellow at the Department of Mathematics and Information Technology, the Education University of Hong Kong (EdUHK). 
+I received Ph.D. degree at the College of Computer Science and Technology, National University of Defense Technology (NUDT), Changsha, China, supervised by Prof. [Zhiping Cai](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=Zhiping+Cai&hl=zh-CN&oi=ao). During my doctoral studies (2019–2023), I expanded my research horizons as a China Scholarship Council (CSC) Visiting student at the Singapore University of Technology and Design (SUTD), guided by Prof. [Zehui Xiong](https://scholar.google.com.hk/citations?view_op=search_authors&mauthors=zehui+xiong&hl=zh-CN&oi=ao). I also served as a visiting scholar in Information and Communication Engineering at the Harbin Institute of Technology, Shenzhen (HITSZ), where I studied with Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en) to advance research on Large AI models, Mobile Edge Computing and Game Theory. 
 Now, I'm a Postdoctoral Fellow at EdUHK working with Assistant Professor [Tse-Tin Chan](https://www.eduhk.hk/mit/en/staff/tsetinchan) in the **HK-SZ-Wireless Group**. 
 
-My research interests include Network for Large AI models, Mobile Edge Computing and Game Theory.
+My research interests are **in the interdisciplinary area between game theory, network optimization, and artificial intelligence**.
 
 Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.hk</u>
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing (TMC).
-- *2024.11*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Services Computing (TSC).
+- *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Communications Magazine.
+- *2025.09*: &nbsp;🎉🎉 One first-author paper has been accepted by IEEE Transactions on Services Computing (TSC).
 
 
 # 📖 Educations
-- *2019.03 - 2023.06*, Doctor of Philosophy in Computer Science and Technology, National University of Defense Technology, China.
-- *2016.09 - 2018.12*, Master of Science in Software Engineering, Guangxi University, China.
+- *2019.03 - 2023.06*, Doctor of Engineering, Computer Science and Technology, National University of Defense Technology, China.
+- *2016.09 - 2018.12*, Master of Engineering, Software Engineering, Guangxi University, China.
 - *2012.09 - 2016.07*, Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
 
-<!-- # 📝 Selected First-Author Publications
-#### Conference Papers:
+# 📝 Selected First-Author Publications
+<!-- #### Conference Papers:
 - <span style="background-color: #cc6666; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,” in Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM), Accepted, 2025. (**CCF A**)
 - <span style="background-color: #99cc33; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,” in Proc. IEEE Int. Conf. Commun. (ICC), Accepted, 2025. (CCF C) -->
 
