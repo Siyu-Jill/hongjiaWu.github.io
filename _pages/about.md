@@ -29,6 +29,7 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Communications Magazine.
+- *2025.09*: &nbsp;🎉🎉 One Co-author paper has been submitted to IEEE Transactions on Mobile Computing (TMC).
 - *2025.09*: &nbsp;🎉🎉 One first-author paper has been accepted by IEEE Transactions on Services Computing (TSC).
 - *2025.06*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing (under major revision).
 
