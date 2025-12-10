@@ -61,19 +61,13 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 - *2016.09 - 2018.12*, Master of Engineering, Software Engineering, Guangxi University, China.
 - *2012.09 - 2016.07*, Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
 
-# RESEARCH EXPERIENCE
-- **Equipment Pre-Research Fund of the 13th Five-Year Plan (31511040302), Intelligent and Low-Power Technology for Wearable Devices in Multi-Modal Information Processing**
+# 💬 Research Experience
+- **Equipment Pre-Research Fund of the 13th Five-Year Plan (31511040302), Intelligent and Low-Power Technology for Wearable Devices in Multi-Modal Information Processing**: Participated in energy-saving technology research for wearable devices, mainly responsible for task offloading in cloud-edge collaboration.
 
-- My Work: Participated in energy-saving technology research for wearable devices, mainly responsible for task offloading in cloud-edge collaboration.
-Achievement: Cai Zhiping, Wu Hongjia, Zhou Tongqing, et al. “Wearable device power management method, system and computer device”, 2020-11-23, China, ZL202011316397.7.
+- **National Natural Science Foundation of China (62072465), Key Technologies for Highly Scalable Edge Computing Architectures**: Primarily involved in writing project proposals, interim and milestone reports, and in algorithm design for edge computing elastic service support.
 
-- **National Natural Science Foundation of China (62072465), Key Technologies for Highly Scalable Edge Computing Architectures**
-
-- My Work: Primarily involved in writing project proposals, interim and milestone reports, and in algorithm design for edge computing elastic service support.
-
-- **Young Scientists Fund (62001483), Research on Complex Task Offloading and Heterogeneous Resource Allocation in Edge Computing-Driven Access Networks**
-  
-- My Work: (1) Proposed a game-based incentive framework that offers a unified model to address challenges of computing resource depletion, bridging gaps between cloud and edge computing by leveraging decentralized computing principles. (2) Introduced an active and distributed crowd-sensing framework for federated learning.
+- **Young Scientists Fund (62001483), Research on Complex Task Offloading and Heterogeneous Resource Allocation in Edge Computing-Driven Access Networks**:
+  (1) Proposed a game-based incentive framework that offers a unified model to address challenges of computing resource depletion, bridging gaps between cloud and edge computing by leveraging decentralized computing principles. (2) Introduced an active and distributed crowd-sensing framework for federated learning.
 
 # 🎖 Honors and Awards
 - China National Scholarship for Doctoral Students (3%), Ministry of Education of the People’s Republic of China, 2020.
@@ -83,5 +77,7 @@ Achievement: Cai Zhiping, Wu Hongjia, Zhou Tongqing, et al. “Wearable device p
 
 
 # Personal Motto
+- Small insights lead to big discoveries.
 - Take gains with peace, seek what is essential, release what is gone, and move with nature’s way.
+- Research: 10% inspiration, 90% “why doesn’t this work?”
 
