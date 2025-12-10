@@ -54,7 +54,7 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 - <span style="background-color: #cc9933; color: white; padding: 1px 4px; font-size: 12px;">``WiOpt 2024``</span> H. Liu, J. Wu, X. Zhuang, **Hongjia Wu**, and L. Gao, “[Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model](https://ieeexplore.ieee.org/document/10778362),” in Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
 
 ### Patent:
-- Z. Cai,**Hongjia Wu**, and T. Zhou., “Wearable device power management method, system and computer device,” 2020-11-23, China, ZL202011316397.7.
+- Z. Cai, **Hongjia Wu**, and T. Zhou., “Wearable device power management method, system and computer device,” 2020-11-23, China, ZL202011316397.7.
 
 # 📖 Educations
 - *2019.03 - 2023.06*, Doctor of Engineering, Computer Science and Technology, National University of Defense Technology, China.
@@ -62,9 +62,10 @@ Feel free to contact me for communication and collaboration: <u>whongjia@eduhk.h
 - *2012.09 - 2016.07*, Bachelor of Engineering, Embedded Software Engineering, Liaoning Technical University, China.
 
 # 🎖 Honors and Awards
-- *2023.05* Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
-- *2023.05* Outstanding Graduate (10%), Northwestern Polytechnical University.
-- *2022.11* Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
+- China National Scholarship for Doctoral Students (3%), Ministry of Education of the People’s Republic of China, 2020.
+- Outstanding PhD Graduate Award, School of Computer Science, National University of Defense Technology.
+- China National Scholarship for Master’s Students (2%), Ministry of Education of the People’s Republic of China, 2018.
+- Outstanding Graduate Award, School of Software Engineering, Liaoning Technical University.
 
 
 # Personal Motto
